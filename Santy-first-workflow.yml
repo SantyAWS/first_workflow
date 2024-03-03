@@ -19,4 +19,4 @@ jobs:
         node-version: 18
 
     - name: Print a message
-      run: echo "Hello, Santy!"
+      run: echo "Hello Santy - Testing"
